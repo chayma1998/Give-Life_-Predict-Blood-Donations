@@ -2,7 +2,7 @@
 
 
 
-Datacamp Project : Give Life_ Predict Blood Donations.
-Language : Python.
+* Datacamp Project : Give Life_ Predict Blood Donations.
+* Language : Python.
 
 
